@@ -17,7 +17,7 @@ while(1)
 {	
 	// Toggle the LED
 	digitalWrite(0, !digitalRead(0));
-delay(500); 	// Delay 500ms
+	delay(500); 	// Delay 500ms
 }
 }
 	return 0;
